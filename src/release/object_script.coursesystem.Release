@@ -1,0 +1,14 @@
+release/userlogin.o
+release/studentui.o
+release/teacherui.o
+release/administratorui.o
+release/main.o
+release/datastr.o
+release/teacherreleaseui.o
+release/teacherseeui.o
+release/moc_userlogin.o
+release/moc_studentui.o
+release/moc_teacherui.o
+release/moc_administratorui.o
+release/moc_teacherreleaseui.o
+release/moc_teacherseeui.o

@@ -1,0 +1,14 @@
+debug/userlogin.o
+debug/studentui.o
+debug/teacherui.o
+debug/administratorui.o
+debug/main.o
+debug/datastr.o
+debug/teacherreleaseui.o
+debug/teacherseeui.o
+debug/moc_userlogin.o
+debug/moc_studentui.o
+debug/moc_teacherui.o
+debug/moc_administratorui.o
+debug/moc_teacherreleaseui.o
+debug/moc_teacherseeui.o
